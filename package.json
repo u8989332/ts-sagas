@@ -1,7 +1,7 @@
 {
-  "name": "hwrld",
-  "version": "2.1.1",
-  "description": "Can log \"hello world\" and \"goodbye world\" to the console!",
+  "name": "ts-sagas",
+  "version": "1.0.0",
+  "description": "Sagas",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
@@ -16,22 +16,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bersling/typescript-library-starter.git"
+    "url": "git+https://github.com/u8989332/ts-sagas.git"
   },
   "keywords": [
     "demo",
     "typescript",
-    "library",
-    "hello world"
+    "sagas"
   ],
-  "author": "Daniel Niederberger <bersling@gmail.com>",
+  "author": "LiJyu Gao <b8989332@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bersling/typescript-library-starter/issues"
+    "url": "https://github.com/u8989332/ts-sagas/issues"
   },
-  "homepage": "https://github.com/bersling/typescript-library-starter#readme",
+  "homepage": "https://github.com/u8989332/ts-sagas#readme",
   "devDependencies": {},
   "dependencies": {
-    "typescript": "^4.2.3"
+    "typescript": "^4.7.3"
   }
 }
